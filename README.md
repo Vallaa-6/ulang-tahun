@@ -1,3 +1,5 @@
+![alt text](https://github.com/Vallaa-6/ulang-tahun/blob/main/gambar/gambar_1.jpeg?raw=true)
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
